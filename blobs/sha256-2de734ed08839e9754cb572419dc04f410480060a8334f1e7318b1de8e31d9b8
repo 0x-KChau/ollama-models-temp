@@ -1,0 +1,1 @@
+{"model_format":"gguf","model_family":"stablelm","model_families":["stablelm"],"model_type":"3B","file_type":"Q4_0","architecture":"amd64","os":"linux","rootfs":{"type":"layers","diff_ids":["sha256:cccf1e0960de49175ae855f70b849e42da86a496f5a33bcbb3b74a5b6c5f1b5c","sha256:cdf767b699c73a7d6ed7628b840cdbca3b4b2ebb5b9bbaf59033d3382424907c"]}}
